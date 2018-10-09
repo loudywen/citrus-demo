@@ -1,4 +1,4 @@
-package com.devon.demo.citruscucumber2;
+/*package com.devon.demo.citruscucumber2;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
@@ -25,3 +25,4 @@ public class Stepdefs {
 		assertEquals(expectedAnswer, actualAnswer);
 	}
 }
+*/
